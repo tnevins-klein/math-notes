@@ -1,4 +1,4 @@
-A Reimann sum is an approximation of an integral by a finite sum. The sum is performed by dividing the region bounded by the curve into several regular shapes (typically rectangles), and summing their respective areas. The [[Integration|integral]] is commonly defined by the [[Limit|limit]] of a Reimann sum as the number of subintervals (denoted $n$) goes to infinity.
+A Reimann sum is an approximation of an integral by a finite sum. The sum is performed by dividing the region bounded by the curve into several regular shapes (typically rectangles), and summing their respective areas. The [integral](Integration.md) is commonly defined by the [limit](Limit.md) of a Reimann sum as the number of subintervals (denoted $n$) goes to infinity.
 
 ## Definition
 Let $f: [a,b] \to \mathbb{R}$ be a function defined on a closed interval $[a, b] \in \mathbb{R}$, and $P = (x_0, x_1, \dots, x_n)$ be a partition of $[a, b]$.

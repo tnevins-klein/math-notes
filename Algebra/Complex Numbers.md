@@ -1,4 +1,4 @@
-Complex numbers are numbers of the form $a + bi$, where $a, b \in \mathbb{R}$ and $i = \sqrt{-1}$. Numbers purely of the form $bi$, $b \in \mathbb{R}$, are called *imaginary*. Complex numbers form a [[Algebra/Abstract/Field|field]].
+Complex numbers are numbers of the form $a + bi$, where $a, b \in \mathbb{R}$ and $i = \sqrt{-1}$. Numbers purely of the form $bi$, $b \in \mathbb{R}$, are called *imaginary*. Complex numbers form a [field](Algebra/Abstract/Field.md).
 
 > [!NOTE] Operations on the Complex Numbers
 > Let $a + bi, c + di \in \mathbb{C}$.

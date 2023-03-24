@@ -1,1 +1,1 @@
-A field is an algebriac object having notions of addition, subtraction, multiplication and division defined similarly to the [[Algebra/Real Numbers|real numbers]] ($\mathbb{R}$). Formally, fields are a set equipped with binary operations $+$ and $\times$ satisfying the *field axioms*.
+A field is an algebriac object having notions of addition, subtraction, multiplication and division defined similarly to the [real numbers](Algebra/Real%20Numbers.md) ($\mathbb{R}$). Formally, fields are a set equipped with binary operations $+$ and $\times$ satisfying the *field axioms*.

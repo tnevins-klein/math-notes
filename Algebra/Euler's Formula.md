@@ -1,9 +1,9 @@
 
 $$e^{i\theta} = \cos(\theta) + i\sin(\theta)$$
-Euler's formula is a famous identity relating [[Complex Numbers|complex]] [[Exponentials|exponentials]] and [[Functions|trigonometric functions]]. It can be proven in a variety of ways, most commonly by [[Taylor Series|Taylor expansions]] of the respective function definitions. Euler's formula forms the basis of Complex Analysis, and provides the definition for the [[Complex Numbers|complex]] [[Algebra/Functions/Logorithm|logorithm]].
+Euler's formula is a famous identity relating [complex](Complex%20Numbers.md) [exponentials](Exponentials.md) and [trigonometric functions](Functions.md). It can be proven in a variety of ways, most commonly by [Taylor expansions](Taylor%20Series.md) of the respective function definitions. Euler's formula forms the basis of Complex Analysis, and provides the definition for the [complex](Complex%20Numbers.md) [logorithm](Algebra/Functions/Logorithm.md).
 
 ## Proof
-We'll need the powers of $i$, as well as the [[Taylor Series]] for $\sin$, $\cos$, and $e^x$.
+We'll need the powers of $i$, as well as the [Taylor Series](Taylor%20Series.md) for $\sin$, $\cos$, and $e^x$.
 $$
 \begin{align}
 i^1 &= i \\

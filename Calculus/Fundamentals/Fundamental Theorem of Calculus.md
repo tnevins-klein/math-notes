@@ -1,4 +1,4 @@
-The Fundamental Theorem of Calculus states that [[Differentiation]] and integration are partial inverses. Formally, for some integrable function $f(x)$:
+The Fundamental Theorem of Calculus states that [Differentiation](Differentiation.md) and integration are partial inverses. Formally, for some integrable function $f(x)$:
 $$ \frac{d}{dx} \int_0^x f(t) dt = f(x)$$
 and
 $$

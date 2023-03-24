@@ -1,1 +1,1 @@
-Transcentendal numbers are numbers that do not appear as solutions to [[Algebra/Polynomials|polynomials]] with [[Rational Numbers|rational]] coefficients. Not all [[Irrational Numbers|irrational]] numbers are neccecarily transcendental (i.e. $\sqrt{2}$, which is a root of $x^2 - 2$).
+Transcentendal numbers are numbers that do not appear as solutions to [polynomials](Algebra/Polynomials.md) with [rational](Rational%20Numbers.md) coefficients. Not all [irrational](Irrational%20Numbers.md) numbers are neccecarily transcendental (i.e. $\sqrt{2}$, which is a root of $x^2 - 2$).

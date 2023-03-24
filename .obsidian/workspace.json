@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algebra/Integers.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algebra/Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algebra/Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algebra/Integers.md"
               }
             }
           }
@@ -197,18 +197,18 @@
   },
   "active": "578bbc4592a1d114",
   "lastOpenFiles": [
+    "Algebra/Abstract/Field.md",
+    "Algebra/Abstract/Addition.md",
+    "README.md",
     "Algebra/Quadratic Formula.canvas",
     "Templates/Theorem and Proof.md",
     "Calculus/Fundamentals/Fundamental Theorem of Calculus.md",
     "Algebra/Complex Numbers.md",
     "Algebra/Abstract/Scalar Multiplication.md",
-    "Algebra/Abstract/Field.md",
-    "Algebra/Abstract/Addition.md",
     "Algebra/Natural Numbers.md",
     "Algebra/Irrational Numbers.md",
     "Algebra/Euler's Formula.md",
     "Algebra/Integers.md",
-    "README.md",
     "Algebra/Functions/Trigonometric/Functions.md",
     "Calculus/Fundamentals/Integration.md",
     "Slide.md",
