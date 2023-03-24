@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Euler's Formula.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Euler's Formula.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Euler's Formula.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Euler's Formula.md"
+                "file": "README.md"
               }
             }
           }
@@ -197,35 +197,34 @@
   },
   "active": "578bbc4592a1d114",
   "lastOpenFiles": [
-    "Algebra/Integers.md",
+    "Algebra/Quadratic Formula.canvas",
+    "Templates/Theorem and Proof.md",
+    "Calculus/Fundamentals/Fundamental Theorem of Calculus.md",
+    "Algebra/Complex Numbers.md",
+    "Algebra/Abstract/Scalar Multiplication.md",
+    "Algebra/Abstract/Field.md",
+    "Algebra/Abstract/Addition.md",
+    "Algebra/Natural Numbers.md",
     "Algebra/Irrational Numbers.md",
+    "Algebra/Euler's Formula.md",
+    "Algebra/Integers.md",
     "README.md",
     "Algebra/Functions/Trigonometric/Functions.md",
-    "Templates/Theorem and Proof.md",
     "Calculus/Fundamentals/Integration.md",
     "Slide.md",
     "Algebra/Polynomials.md",
-    "Algebra/Quadratic Formula.canvas",
     "Linear/Linearity.md",
     "Linear/Vector Space.md",
-    "Algebra/Abstract/Scalar Multiplication.md",
-    "Algebra/Abstract/Addition.md",
-    "Algebra/Abstract/Field.md",
-    "Algebra/Natural Numbers.md",
-    "Algebra/Euler's Formula.md",
-    "Algebra/Complex Numbers.md",
     "Algebra/Rational Numbers.md",
     "Algebra/Real Numbers.md",
     "Algebra/Transcendental Numbers.md",
     "Algebra/Abstract",
     "Algebra/Functions/Logorithm.md",
-    "Calculus/Fundamentals/Fundamental Theorem of Calculus.md",
     "Calculus/Fundamentals/Limit.md",
     "Calculus/Fundamentals/Reimann Sum.md",
     "Calculus/Fundamentals/Signed Area.jpeg",
     "Calculus/Applications/Taylor Series.md",
     "Calculus/Applications/Center of Mass.md",
-    "Templates/Bla?.md",
     "Templates",
     "Calculus/Calculus Map.canvas",
     "Algebra/Functions",
