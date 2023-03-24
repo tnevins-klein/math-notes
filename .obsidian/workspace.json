@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra/Integers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Integers.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Integers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Integers.md"
+                "file": "README.md"
               }
             }
           }
@@ -197,9 +197,13 @@
   },
   "active": "578bbc4592a1d114",
   "lastOpenFiles": [
+    "Calculus/Fundamentals/Integration.md",
+    "README.md",
+    "Algebra/Real Numbers.md",
+    "Algebra/Transcendental Numbers.md",
+    "Algebra/Integers.md",
     "Algebra/Abstract/Field.md",
     "Algebra/Abstract/Addition.md",
-    "README.md",
     "Algebra/Quadratic Formula.canvas",
     "Templates/Theorem and Proof.md",
     "Calculus/Fundamentals/Fundamental Theorem of Calculus.md",
@@ -208,16 +212,12 @@
     "Algebra/Natural Numbers.md",
     "Algebra/Irrational Numbers.md",
     "Algebra/Euler's Formula.md",
-    "Algebra/Integers.md",
     "Algebra/Functions/Trigonometric/Functions.md",
-    "Calculus/Fundamentals/Integration.md",
     "Slide.md",
     "Algebra/Polynomials.md",
     "Linear/Linearity.md",
     "Linear/Vector Space.md",
     "Algebra/Rational Numbers.md",
-    "Algebra/Real Numbers.md",
-    "Algebra/Transcendental Numbers.md",
     "Algebra/Abstract",
     "Algebra/Functions/Logorithm.md",
     "Calculus/Fundamentals/Limit.md",
