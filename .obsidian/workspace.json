@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "95d3da3d3f968fd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1888d41d4c16fd18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d4a02e36b69fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Goofy kinematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b17fe30d03ee22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Applications/Taylor Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "578bbc4592a1d114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Euler's Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd2fcfc36dafb2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Theorem and Proof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b338d382c26bf2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Fundamentals/Integration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aa1616103f7c5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f08b5d50c9d54bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f632d6a4aed77b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e31ef80a0ecf3110",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ab721595de043c3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "46f69d1c64232b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "d60e84c882c7e1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01589a316590f591",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algebra/Euler's Formula.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "317739100c6afebc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebra/Euler's Formula.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4db1f2a48fdfbbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa166a25f86d0f88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algebra/Euler's Formula.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "578bbc4592a1d114",
+  "lastOpenFiles": [
+    "Algebra/Integers.md",
+    "Algebra/Irrational Numbers.md",
+    "README.md",
+    "Algebra/Functions/Trigonometric/Functions.md",
+    "Templates/Theorem and Proof.md",
+    "Calculus/Fundamentals/Integration.md",
+    "Slide.md",
+    "Algebra/Polynomials.md",
+    "Algebra/Quadratic Formula.canvas",
+    "Linear/Linearity.md",
+    "Linear/Vector Space.md",
+    "Algebra/Abstract/Scalar Multiplication.md",
+    "Algebra/Abstract/Addition.md",
+    "Algebra/Abstract/Field.md",
+    "Algebra/Natural Numbers.md",
+    "Algebra/Euler's Formula.md",
+    "Algebra/Complex Numbers.md",
+    "Algebra/Rational Numbers.md",
+    "Algebra/Real Numbers.md",
+    "Algebra/Transcendental Numbers.md",
+    "Algebra/Abstract",
+    "Algebra/Functions/Logorithm.md",
+    "Calculus/Fundamentals/Fundamental Theorem of Calculus.md",
+    "Calculus/Fundamentals/Limit.md",
+    "Calculus/Fundamentals/Reimann Sum.md",
+    "Calculus/Fundamentals/Signed Area.jpeg",
+    "Calculus/Applications/Taylor Series.md",
+    "Calculus/Applications/Center of Mass.md",
+    "Templates/Bla?.md",
+    "Templates",
+    "Calculus/Calculus Map.canvas",
+    "Algebra/Functions",
+    "Algebra/Functions/Trigonometric",
+    "Algebra",
+    "Linear",
+    "Physics",
+    "Calculus/Fundamentals/Integration Techniques",
+    "Calculus/Fundamentals/Differentiation Rules",
+    "Calculus/Applications",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}

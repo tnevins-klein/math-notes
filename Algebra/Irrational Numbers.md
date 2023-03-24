@@ -1,0 +1,1 @@
+Rationals, denoted $\mathbb{R} - \mathbb{Q}$ (for [[Real Numbers|reals]] minus [[Rational Numbers|rationals]]), are numbers that are not [[Rational Numbers|rational]]. Alternatively, they are numbers whose decimal representation does not eventually repeat or terminate. Examples include $e$, $\sqrt{2}$, $\varphi$, and $\pi$.

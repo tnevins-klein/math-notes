@@ -1,0 +1,1 @@
+An **addition** on a set $V$ is a function $+ : V \times V \to V$.

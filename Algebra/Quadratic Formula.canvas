@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"$$ax^2 + bx +c = 0$$","id":"fe4d778ee5c620e4","x":-3040,"y":-6340,"width":259,"height":96},
+		{"type":"text","text":"$$x^2 + \\frac{b}{a}x + \\frac{c}{a}=0$$","id":"4eb4728af17ea2bb","x":-2740,"y":-6350,"width":258,"height":116},
+		{"type":"text","text":"$$x^2 + \\frac{b}{a}x=\\frac{-c}{a}$$","id":"0e8c75067b87f9a3","x":-3035,"y":-6180,"width":254,"height":120},
+		{"type":"text","text":"$$\\left(x +\\frac{b}{2a}\\right)^2-\\frac{b^2}{4a^2}=\\frac{-c}{a}$$","id":"f368e13dc2f5398b","x":-2735,"y":-6180,"width":271,"height":120},
+		{"type":"text","text":"$$\\left(x +\\frac{b}{2a}\\right)^2=\\frac{b^2}{4a^2} +\\frac{-c}{a}$$","id":"f5807f37261253d3","x":-3035,"y":-6020,"width":300,"height":120},
+		{"type":"text","text":"$$\\left(x +\\frac{b}{2a}\\right)^2=\\frac{b^2 - 4ac}{4a^2} $$","id":"e8ea4700865b2e22","x":-2695,"y":-6020,"width":300,"height":120},
+		{"type":"text","text":" $$x +\\frac{b}{2a}=\\pm \\sqrt{\\frac{b^2 - 4ac}{4a^2}} $$","id":"f1dc043def1900c7","x":-3060,"y":-5840,"width":300,"height":120},
+		{"type":"text","text":" $$x +\\frac{b}{2a}=\\pm \\frac{\\sqrt{b^2 - 4ac}}{2a} $$","id":"652950fd24e39b1b","x":-2715,"y":-5840,"width":300,"height":120},
+		{"type":"text","text":" $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a} $$","id":"53fb57858faff96c","x":-2360,"y":-5840,"width":300,"height":120},
+		{"id":"d8b037b3bad2a589","x":-2395,"y":-6158,"width":394,"height":76,"type":"text","text":"# Quadratic Formula"}
+	],
+	"edges":[
+		{"id":"b5b3451610fd69e3","fromNode":"fe4d778ee5c620e4","fromSide":"right","toNode":"4eb4728af17ea2bb","toSide":"left"},
+		{"id":"534ceb17ac4f1678","fromNode":"0e8c75067b87f9a3","fromSide":"right","toNode":"f368e13dc2f5398b","toSide":"left"},
+		{"id":"e5a23b88798838da","fromNode":"f5807f37261253d3","fromSide":"right","toNode":"e8ea4700865b2e22","toSide":"left"},
+		{"id":"f457d9b18081f2d0","fromNode":"f1dc043def1900c7","fromSide":"right","toNode":"652950fd24e39b1b","toSide":"left"},
+		{"id":"be566c4d1c7a6a21","fromNode":"652950fd24e39b1b","fromSide":"right","toNode":"53fb57858faff96c","toSide":"left"},
+		{"id":"dcdab82d32f75ec6","fromNode":"e8ea4700865b2e22","fromSide":"bottom","toNode":"f1dc043def1900c7","toSide":"top"},
+		{"id":"750f3ca6fc111ac4","fromNode":"f368e13dc2f5398b","fromSide":"bottom","toNode":"f5807f37261253d3","toSide":"top"},
+		{"id":"f0e8744c5dfead52","fromNode":"4eb4728af17ea2bb","fromSide":"bottom","toNode":"0e8c75067b87f9a3","toSide":"top"}
+	]
+}

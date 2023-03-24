@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"file","file":"Calculus/Fundamentals/Integration Techniques/Substitution.md","id":"2f7fc7fd115466a9","x":-284,"y":641,"width":360,"height":359},
+		{"type":"text","text":"# Integration Techniques","id":"df1b59f075d654e2","x":-200,"y":480,"width":492,"height":80},
+		{"type":"file","file":"Calculus/Fundamentals/Integration.md","id":"0e06b0530e7c308d","x":-104,"y":1,"width":400,"height":400},
+		{"type":"file","file":"Calculus/Fundamentals/Integration Techniques/Integration By Parts.md","id":"2c7559df8fd9f9e2","x":96,"y":641,"width":375,"height":359},
+		{"type":"file","file":"Calculus/Fundamentals/Signed Area.jpeg","id":"075ed14ad005633f","x":-640,"y":82,"width":400,"height":239},
+		{"type":"file","file":"Calculus/Applications/Center of Mass.md","id":"cec733ef1109d55c","x":-840,"y":522,"width":400,"height":400},
+		{"type":"file","file":"Calculus/Fundamentals/Differentiation Rules/General.md","id":"7220f646008f1fae","x":520,"y":680,"width":400,"height":440},
+		{"type":"text","text":"# Differentiation Rules","id":"8e4a84dc3a18b4e7","x":520,"y":440,"width":400,"height":110},
+		{"type":"file","file":"Calculus/Fundamentals/Differentiation Rules/Trigonometric.md","id":"bb5ebe554583ef51","x":960,"y":680,"width":400,"height":440},
+		{"type":"file","file":"Calculus/Fundamentals/Fundamental Theorem of Calculus.md","id":"31019dce779e9645","x":-104,"y":-560,"width":1064,"height":400},
+		{"type":"file","file":"Calculus/Fundamentals/Differentiation.md","id":"aa4582c4259e2f13","x":480,"y":0,"width":480,"height":371},
+		{"type":"text","text":"# Applications","id":"5bc1f6732ac8d866","x":-560,"y":377,"width":320,"height":63}
+	],
+	"edges":[
+		{"id":"6e01acd879b6c0aa","fromNode":"31019dce779e9645","fromSide":"bottom","toNode":"0e06b0530e7c308d","toSide":"top"},
+		{"id":"a7ee33da2626b737","fromNode":"31019dce779e9645","fromSide":"bottom","toNode":"aa4582c4259e2f13","toSide":"top"},
+		{"id":"6b89e3bfc43c8e82","fromNode":"8e4a84dc3a18b4e7","fromSide":"bottom","toNode":"7220f646008f1fae","toSide":"top"},
+		{"id":"e9e10ca088640c30","fromNode":"aa4582c4259e2f13","fromSide":"bottom","toNode":"8e4a84dc3a18b4e7","toSide":"top"},
+		{"id":"797748e0718b2fc2","fromNode":"8e4a84dc3a18b4e7","fromSide":"bottom","toNode":"bb5ebe554583ef51","toSide":"top"},
+		{"id":"728798294eee93a1","fromNode":"df1b59f075d654e2","fromSide":"bottom","toNode":"2f7fc7fd115466a9","toSide":"top"},
+		{"id":"3da5d2da40ab658e","fromNode":"df1b59f075d654e2","fromSide":"bottom","toNode":"2c7559df8fd9f9e2","toSide":"top"},
+		{"id":"17057447f9949515","fromNode":"0e06b0530e7c308d","fromSide":"bottom","toNode":"df1b59f075d654e2","toSide":"top"},
+		{"id":"a929831188b30fee","fromNode":"075ed14ad005633f","fromSide":"right","toNode":"0e06b0530e7c308d","toSide":"left"},
+		{"id":"c986ea6e5be5e4e3","fromNode":"5bc1f6732ac8d866","fromSide":"left","toNode":"cec733ef1109d55c","toSide":"top"},
+		{"id":"422de4fa59a7a55b","fromNode":"0e06b0530e7c308d","fromSide":"left","toNode":"5bc1f6732ac8d866","toSide":"right"}
+	]
+}

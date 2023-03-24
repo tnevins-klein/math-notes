@@ -1,0 +1,1 @@
+A **scalar multiplication** on a set $V$ and a [[Field|field]] $\mathbb{F}$ is a function $S : \mathbb{F} \times V \to V$.

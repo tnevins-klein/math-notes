@@ -1,0 +1,1 @@
+The real numbers, denoted $\mathbb{R}$, are the union of the [[Algebra/Rational Numbers|rationals]] and [[Algebra/Irrational Numbers|irrationals]]. They include the [[Algebra/Integers|integers]], fractions such as $\frac{1}{2}$ and irrational and [[Algebra/Transcendental Numbers|trancendental numbers]] such as $e$ and $\pi$.
